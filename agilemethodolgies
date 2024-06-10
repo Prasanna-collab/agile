@@ -1,0 +1,54 @@
+Agile=> iterative and incremental process of the deliver the project in the IT companies. 
+
+product life cycle=> requirement process=> designing=> developing=> testing=> delivering => support and maintenance.
+
+
+these cycle are repeated until the project completion and in a each cycle new feature will be added through out the completion of the project.
+
+
+advantages of agile methodologies:)
+
+1. Customer don't have to wait for the deliverables. (every 2/3 week customer get the piece of software)
+2. requirements can be changed at any part of the time.
+3. Team members easily can be communicated.(product owner, dev team, qa team, scrum master )
+
+
+Agile Principles:)
+
+1. Customer Satisfaction => less waiting time.
+2. Collabrative work.
+3. Develop, test, deploy with every few weeks. 
+
+
+SCRUM :) 
+
+Scrum is the framework used to develop software product by doing agile process.
+
+SCRUM Team :) Product Owner, Dev Team, QA Team, SCRUM Master.
+
+PO=> defines the product features, to proritize the list of features. he can accept/ reject the status of the job.
+
+SCRUM Master:) => Drives the agile principle. 
+
+Sprint => It is a particular duration of time user can complete the stories/task.
+(2-3 weeks) normally.
+
+Sprint Planning meeting => What are user stories would have to delivered will be discussed in this meeting.
+
+SCRUM Meeting=> standup meeting=> (yesterday completion, todays agenda, problem faced during the work/project)
+
+Product owner => will take the requirement from customers/stake holders/client and list the priority of the tasks in the product backlog.(it contains the list of user stories).
+
+Sprint planning meeting => Discuss about the stories might have completed within particular sprint. (no of user stories).
+
+Sprint backlog=> no of committed stories are available here.
+
+Sprint Period Starts=> normally this is 1-4 weeks of time.
+
+24 hrs one standup call => started by SCRUM Master.
+
+
+After completing one sprint => Sprint Reveiew will be there. (Demo to PO).
+
+After that sprint retrospecting meet will be there. => analysing the peroformance of last sprint (what went well, waht went wrong)
+
